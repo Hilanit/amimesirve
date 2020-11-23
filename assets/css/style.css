@@ -1,0 +1,163 @@
+body{
+font-family: 'Poppins', sans-serif;	
+color: #484848
+}
+
+.bg-gris{
+	background-color: #484848;
+}
+
+.rounded-corners{
+	border-radius: 40px;
+}
+
+.btn-verde{
+	background-color: #3BCF96;
+}
+
+.logo_navbar {
+	width: 5rem;
+}
+
+.logo_footer {
+	width: 7rem;
+}
+
+.header_container {
+	margin-top: 15rem;
+  padding-bottom: 4rem;
+
+}
+
+span {
+	color: #3BCF96;
+}
+
+.primary_btn {
+	background-color: #00C0CD;
+	border: none;
+	font-size: 18px;
+}
+
+.primary_btn:hover {
+	background-color: #63D5DD;
+	color:white;
+}
+
+.secondary_btn {
+	border: 2px solid #00C0CD;
+	color: #00C0CD;
+	font-size: 18px
+}
+
+.secondary_btn:hover {
+ 	border-color: #63D5DD;
+ 	background-color: #fff;
+	color: #63D5DD;
+}
+
+.parrafo_header {
+font-size: 25px;
+line-height: 41px;
+}
+
+.parrafo_section {
+font-weight: 300;
+font-size: 18px;
+max-width: 60%;
+margin-left: 15rem;
+}
+
+
+/* Círculos de colores numerados */
+span.uno {
+  background: #FFD31D;
+  border-radius: 0.8em;
+  -moz-border-radius: 0.8em;
+  -webkit-border-radius: 0.8em;
+  color: #fff;
+  display: inline-block;
+  font-weight: bold;
+  line-height: 1.6em;
+  margin-right: 15px;
+  text-align: center;
+  width: 1.6em; 
+  font-size: 50px;
+}
+
+span.dos {
+  background: #FF8C10;
+   border-radius: 0.8em;
+  -moz-border-radius: 0.8em;
+  -webkit-border-radius: 0.8em;
+  color: #ffffff;
+  display: inline-block;
+  font-weight: bold;
+  line-height: 1.6em;
+  margin-right: 15px;
+  text-align: center;
+  width: 1.6em; 
+  font-size: 50px;
+}
+
+span.tres {
+  background: #00C0CD;
+  border-radius: 0.8em;
+  -moz-border-radius: 0.8em;
+  -webkit-border-radius: 0.8em;
+  color: #ffffff;
+  display: inline-block;
+  font-weight: bold;
+  line-height: 1.6em;
+  margin-right: 15px;
+  text-align: center;
+  width: 1.6em;
+  font-size: 50px;
+}
+
+span.cuatro {
+  background: #3BCF96;
+  border-radius: 0.8em;
+  -moz-border-radius: 0.8em;
+  -webkit-border-radius: 0.8em;
+  color: #ffffff;
+  display: inline-block;
+  font-weight: bold;
+  line-height: 1.6em;
+  margin-right: 15px;
+  text-align: center;
+  width: 1.6em;
+  font-size: 50px;
+}
+
+
+.icono {
+  vertical-align: middle;
+  color:#ffffff; 
+ 
+  }
+
+  #contacto{
+font-weight: 700;
+  }
+
+  .ilustracion{
+    width: 40rem;
+
+  }
+
+  .bg-wave{
+    background-image: url('../img/Onda.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 9rem;
+    background-size: 100%;
+  }
+
+  ::-webkit-scrollbar {
+    display: none;
+}
+
+section.padding-0 {
+  padding: 0;
+}
